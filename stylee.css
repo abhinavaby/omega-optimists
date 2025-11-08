@@ -47,7 +47,3 @@ body{
 }
 
 /* Adds a highlight to the active/current link */
-.navbar li a.active {
-    background-color: #000000;
-    color: rgb(109, 27, 223);
-}
